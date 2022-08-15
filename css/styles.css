@@ -1,0 +1,48 @@
+
+
+body {
+    
+    background: linear-gradient(400deg, #04320a 90%, #64a1f6 90%);
+  }
+
+ 
+  p {
+    font-family: fantasy;
+    color: #000000;
+
+
+  }
+  h1 {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+ 
+
+  }
+
+  h2 {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    
+  }
+
+  div {
+
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    
+}
+strong {
+  font-family: fantasy;
+  color: #97cce7;
+
+}
+footer {
+
+    font-family: fantasy;
+    color: #f3efef;
+
+}
+
+h5 {
+
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: #000000;
+
+}
